@@ -5,6 +5,15 @@
             font-family: Jost, sans-serif;
             color: rgb(0, 0, 0);
         }
+        button {
+            position: absolute;
+            top: 30px;
+            left: 10px;
+            padding: 5px 10px;
+            background-color: #0957F0;
+            border: none;
+            color: #a3c6e1;
+        }
         .radio input {
         display: none;
         }
